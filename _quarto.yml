@@ -5,10 +5,13 @@ project:
 website:
   title: "Paweł Morzywołek"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research.qmd
+      - cv.qmd
 
 format:
   html:

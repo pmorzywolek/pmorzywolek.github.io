@@ -1,5 +1,17 @@
 ---
 title: "Paweł Morzywołek"
+image: photo.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
+    - text: Twitter
+      href: https://twitter.com/PMorzywolek
+    - text: GitHub
+      href: https://github.com/pmorzywolek
+    - text: Email
+      href: mailto:pawel.morzywolek@ugent.be
 ---
-
-Work in progress...

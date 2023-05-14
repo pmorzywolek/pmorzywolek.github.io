@@ -1,8 +1,8 @@
-## Teaching Assistant at [Ghent University](https://ugent.be/en) 
+## Teaching Assistant at [Ghent University](https://ugent.be/en)
 
 -   [Causal Machine Learning](https://studiekiezer.ugent.be/studiefiche/en/C004413/2022) (Spring Semester 2023)
 
--   [Causality and Missing Data](https://studiekiezer.ugent.be/studiefiche/en/C002881/2021) (Spring Semester 2020/2021/2022)
+-   [Causality and Missing Data](https://studiekiezer.ugent.be/studiefiche/en/C002881/2021) (Spring Semesters 2020/2021/2022)
 
 ## Teaching Assistant at African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/))
 

@@ -1,17 +1,23 @@
 ---
 title: "Paweł Morzywołek"
-image: photo.jpg
+image: photo2.jpg
 about: 
   template: trestles
   image-shape: round
-  image-width: 23em
+  image-width: 18em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
-    - text: Twitter
-      href: https://twitter.com/PMorzywolek
     - text: GitHub
       href: https://github.com/pmorzywolek
+    - text: Twitter
+      href: https://twitter.com/PMorzywolek
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
     - text: Email
       href: mailto:pawel.morzywolek@ugent.be
 ---
+
+# Biography
+
+I am a PhD student in statistical data analysis at Ghent University. In my research project, I apply methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.
+
+I graduated with a mathematics degree from ETH Zurich with a focus on statistical learning theory and financial mathematics. Previously, I worked as a teaching assistant at African Institute for Mathematical Sciences in South Africa and as an actuary and a data scientist in a consulting company EY in Switzerland and Spain.

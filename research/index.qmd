@@ -1,0 +1,13 @@
+## Preprints
+
+-   **Morzywołek, P.**, Decruyenaere, J., Vansteelandt, S. "On a general class of orthogonal learners for the estimation of heterogeneous treatment effects", arXiv, 2023.
+
+## 2022
+
+-   **Morzywołek, P.**, Steen, J., Vansteelandt, S., Decruyenaere, J., Sterckx S., Van Biesen, W. "Timing of dialysis in acute kidney injury using routinely collected data and dynamic treatment regimes", *Critical Care*, 2022.
+
+-   **Morzywołek, P.**, Steen, J., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. "On estimation and cross-validation of dynamic treatment regimes with competing risks", *Statistics in Medicine*, 2022.
+
+## 2021
+
+-   Vanmassenhove J., Steen, J., Vansteelandt, S., **Morzywołek, P.**, Hoste, E., Decruyenaere, J., Benoit, D., Van Biesen, W. "The importance of the urinary output criterion for the detection and prognostic meaning of AKI", *Scientific Reports*, 2021.

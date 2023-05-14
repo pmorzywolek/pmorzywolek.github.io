@@ -5,18 +5,30 @@ project:
 website:
   title: "Paweł Morzywołek"
   navbar:
-    background: primary
+    pinned: true
+    background: secondary
     left:
-      - href: index.qmd
-        text: About
-      - research.qmd
-      - cv.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      
+    right:
+      - icon: github
+        href: https://github.com/pmorzywolek
+      - icon: twitter
+        href: https://twitter.com/PMorzywolek
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:pawel.morzywolek@ugent.be"  
 
 format:
   html:
-    theme: lux
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
 
 editor: visual

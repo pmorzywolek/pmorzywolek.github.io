@@ -7,17 +7,21 @@ about:
   image-width: 18em
   links:
     - text: GitHub
+      icon: github
       href: https://github.com/pmorzywolek
     - text: Twitter
+      icon: twitter
       href: https://twitter.com/PMorzywolek
     - text: LinkedIn
+      icon: linkedin
       href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
     - text: Email
+      icon: envelope
       href: mailto:pawel.morzywolek@ugent.be
 ---
 
 # Biography
 
-I am a PhD student in statistical data analysis at Ghent University. In my research project, I apply methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.
+I am a PhD student in statistical data analysis at [Ghent University](https://www.ugent.be/en) In my research project, I apply methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.
 
-I graduated with a mathematics degree from ETH Zurich with a focus on statistical learning theory and financial mathematics. Previously, I worked as a teaching assistant at African Institute for Mathematical Sciences in South Africa and as an actuary and a data scientist in a consulting company EY in Switzerland and Spain.
+I graduated with a mathematics degree from [ETH Zurich](https://ethz.ch/en.html) with a focus on statistical learning theory and financial mathematics. Previously, I worked as a teaching assistant at African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/)) and as an actuary and a data scientist in a consulting company [EY](https://www.ey.com/en_ch).

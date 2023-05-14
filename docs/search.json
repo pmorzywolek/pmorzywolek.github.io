@@ -4,35 +4,35 @@
     "href": "research/index.html",
     "title": "Paweł Morzywołek",
     "section": "",
-    "text": "Morzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arXiv, 2023."
+    "text": "Morzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arXiv, 2023. [arxiv] [code]"
   },
   {
     "objectID": "research/index.html#preprints",
     "href": "research/index.html#preprints",
     "title": "Paweł Morzywołek",
     "section": "",
-    "text": "Morzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arXiv, 2023."
+    "text": "Morzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arXiv, 2023. [arxiv] [code]"
   },
   {
     "objectID": "research/index.html#section",
     "href": "research/index.html#section",
     "title": "Paweł Morzywołek",
     "section": "2022",
-    "text": "2022\n\nMorzywołek, P., Steen, J., Vansteelandt, S., Decruyenaere, J., Sterckx S., Van Biesen, W. “Timing of dialysis in acute kidney injury using routinely collected data and dynamic treatment regimes”, Critical Care, 2022.\nMorzywołek, P., Steen, J., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. “On estimation and cross-validation of dynamic treatment regimes with competing risks”, Statistics in Medicine, 2022."
+    "text": "2022\n\nMorzywołek, P., Steen, J., Vansteelandt, S., Decruyenaere, J., Sterckx S., Van Biesen, W. “Timing of dialysis in acute kidney injury using routinely collected data and dynamic treatment regimes”, Critical Care, 2022. [paper]\nMorzywołek, P., Steen, J., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. “On estimation and cross-validation of dynamic treatment regimes with competing risks”, Statistics in Medicine, 2022. [paper] [arxiv] [code]"
   },
   {
     "objectID": "research/index.html#section-1",
     "href": "research/index.html#section-1",
     "title": "Paweł Morzywołek",
     "section": "2021",
-    "text": "2021\n\nVanmassenhove J., Steen, J., Vansteelandt, S., Morzywołek, P., Hoste, E., Decruyenaere, J., Benoit, D., Van Biesen, W. “The importance of the urinary output criterion for the detection and prognostic meaning of AKI”, Scientific Reports, 2021."
+    "text": "2021\n\nVanmassenhove J., Steen, J., Vansteelandt, S., Morzywołek, P., Hoste, E., Decruyenaere, J., Benoit, D., Van Biesen, W. “The importance of the urinary output criterion for the detection and prognostic meaning of AKI”, Scientific Reports, 2021. [paper]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Paweł Morzywołek",
     "section": "",
-    "text": "Biography\nI am a PhD student in statistical data analysis at Ghent University. In my research project, I apply methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.\nI graduated with a mathematics degree from ETH Zurich with a focus on statistical learning theory and financial mathematics. Previously, I worked as a teaching assistant at African Institute for Mathematical Sciences in South Africa and as an actuary and a data scientist in a consulting company EY in Switzerland and Spain."
+    "text": "Biography\nI am a PhD student in statistical data analysis at Ghent University In my research project, I apply methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.\nI graduated with a mathematics degree from ETH Zurich with a focus on statistical learning theory and financial mathematics. Previously, I worked as a teaching assistant at African Institute for Mathematical Sciences (AIMS South Africa) and as an actuary and a data scientist in a consulting company EY."
   },
   {
     "objectID": "teaching/index.html",

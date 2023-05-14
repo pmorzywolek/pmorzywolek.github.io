@@ -1,13 +1,13 @@
 ## Preprints
 
--   **Morzywołek, P.**, Decruyenaere, J., Vansteelandt, S. "On a general class of orthogonal learners for the estimation of heterogeneous treatment effects", arXiv, 2023.
+-   **Morzywołek, P.**, Decruyenaere, J., Vansteelandt, S. "On a general class of orthogonal learners for the estimation of heterogeneous treatment effects", arXiv, 2023. \[[arxiv](https://arxiv.org/abs/2303.12687)\] \[[code](https://github.com/pmorzywolek/CATEsimulations)\]
 
 ## 2022
 
--   **Morzywołek, P.**, Steen, J., Vansteelandt, S., Decruyenaere, J., Sterckx S., Van Biesen, W. "Timing of dialysis in acute kidney injury using routinely collected data and dynamic treatment regimes", *Critical Care*, 2022.
+-   **Morzywołek, P.**, Steen, J., Vansteelandt, S., Decruyenaere, J., Sterckx S., Van Biesen, W. "Timing of dialysis in acute kidney injury using routinely collected data and dynamic treatment regimes", *Critical Care*, 2022. \[[paper](https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04252-1)\]
 
--   **Morzywołek, P.**, Steen, J., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. "On estimation and cross-validation of dynamic treatment regimes with competing risks", *Statistics in Medicine*, 2022.
+-   **Morzywołek, P.**, Steen, J., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. "On estimation and cross-validation of dynamic treatment regimes with competing risks", *Statistics in Medicine*, 2022. \[[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9568)\] \[[arxiv](https://arxiv.org/abs/2109.00396)\] \[[code](https://github.com/pmorzywolek/comprisksDTR)\]
 
 ## 2021
 
--   Vanmassenhove J., Steen, J., Vansteelandt, S., **Morzywołek, P.**, Hoste, E., Decruyenaere, J., Benoit, D., Van Biesen, W. "The importance of the urinary output criterion for the detection and prognostic meaning of AKI", *Scientific Reports*, 2021.
+-   Vanmassenhove J., Steen, J., Vansteelandt, S., **Morzywołek, P.**, Hoste, E., Decruyenaere, J., Benoit, D., Van Biesen, W. "The importance of the urinary output criterion for the detection and prognostic meaning of AKI", *Scientific Reports*, 2021. \[[paper](https://www.nature.com/articles/s41598-021-90646-0)\]

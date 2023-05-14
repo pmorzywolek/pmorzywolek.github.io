@@ -4,6 +4,6 @@
 
 -   [Causality and Missing Data](https://studiekiezer.ugent.be/studiefiche/en/C002881/2021) (Spring Semesters 2020/2021/2022)
 
-## Teaching Assistant at African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/))
+## Teaching Assistant at [AIMS South Africa](https://aims.ac.za/)
 
--   Several short courses in mathematics, physics and computer science, i.e. "Introduction to Scientific Computing in Python", "Problem Solving in Physics", "Probability and Statistics", "Algebra", "Finite-dimensional Quantum Mechanics and Quantum Computing", "Stochastic asset models and their analysis using Monte Carlo methods". (Autumn Semester 2015)
+-   Several short courses in mathematics, physics and computer science, e.g. "Introduction to Scientific Computing in Python", "Problem Solving in Physics", "Probability and Statistics", "Algebra". (Autumn Semester 2015)

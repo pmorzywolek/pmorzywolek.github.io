@@ -8,13 +8,13 @@ website:
     pinned: true
     background: secondary
     left:
-      - text: "Home"
+      - text: Home
         href: index.qmd
-      - text: "Research"
+      - text: Research
         href: research/index.qmd
-      - text: "Teaching"
+      - text: Teaching
         href: teaching/index.qmd
-      - text: "Talks"
+      - text: Talks
         href: talks/index.qmd
       
     right:

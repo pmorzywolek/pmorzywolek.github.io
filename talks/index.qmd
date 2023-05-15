@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Talks"
 ---
 
 Work in progress...

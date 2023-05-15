@@ -14,8 +14,8 @@ website:
         href: research/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
-      - text: "CV"
-        href: cv/index.qmd
+      - text: "Talks"
+        href: talks/index.qmd
       
     right:
       - icon: github
@@ -24,6 +24,8 @@ website:
         href: https://twitter.com/PMorzywolek
       - icon: linkedin
         href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
+      - icon: file-text
+        href: cv.pdf
       - icon: envelope
         aria-label: email
         href: "mailto:pawel.morzywolek@ugent.be"  

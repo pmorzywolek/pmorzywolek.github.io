@@ -1,7 +1,7 @@
 ---
 title: "Paweł Morzywołek"
 image: photo2.jpg
-resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf
+resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf, cv.pdf
 about: 
   template: trestles
   image-shape: round
@@ -16,6 +16,9 @@ about:
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
+    - text: CV
+      icon: file-text
+      href: cv.pdf
     - text: Email
       icon: envelope
       href: mailto:pawel.morzywolek@ugent.be

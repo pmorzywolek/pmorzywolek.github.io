@@ -18,6 +18,6 @@ resources: MasterThesis-PawelMorzywolek.pdf
 
 ## Theses
 
--   [Master Thesis](../MasterThesis-PawelMorzywolek.pdf): *Non-parametric Methods for Estimation of Hawkes Process for High-frequency Financial Data*, ETH Zurich 2015
+-   [Master Thesis](../MasterThesis-PawelMorzywolek.pdf): *Non-parametric Methods for Estimation of Hawkes Process for High-frequency Financial Data*, ETH Zurich 2015.
 
--   [Bachelor Thesis](../RandomTrees-BachelorThesis.pdf): *Random Trees: Convergence of Discrete Random Trees to the Continuum Random Tree*, ETH Zurich 2013
+-   [Bachelor Thesis](../RandomTrees-BachelorThesis.pdf): *Random Trees: Convergence of Discrete Random Trees to the Continuum Random Tree*, ETH Zurich 2013.

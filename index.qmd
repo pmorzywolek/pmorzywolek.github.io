@@ -1,6 +1,7 @@
 ---
 title: "Paweł Morzywołek"
 image: photo2.jpg
+resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf
 about: 
   template: trestles
   image-shape: round

@@ -8,6 +8,8 @@ website:
     pinned: true
     background: secondary
     left:
+      - text: "Home"
+        href: index.qmd
       - text: "Research"
         href: research/index.qmd
       - text: "Teaching"
@@ -28,8 +30,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - cosmo
+      - html/styles.scss
     toc: false
     page-layout: full
 

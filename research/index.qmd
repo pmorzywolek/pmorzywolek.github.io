@@ -1,3 +1,7 @@
+---
+resources: MasterThesis-PawelMorzywolek.pdf
+---
+
 ## Preprints
 
 -   **Morzywołek, P.**, Decruyenaere, J., Vansteelandt, S. "On a general class of orthogonal learners for the estimation of heterogeneous treatment effects", arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2303.12687)\] \[[code](https://github.com/pmorzywolek/CATEsimulations)\]
@@ -11,3 +15,9 @@
 ## 2021
 
 -   Vanmassenhove J., Steen, J., Vansteelandt, S., **Morzywołek, P.**, Hoste, E., Decruyenaere, J., Benoit, D., Van Biesen, W. "The importance of the urinary output criterion for the detection and prognostic meaning of AKI", *Scientific Reports*, 2021. \[[paper](https://www.nature.com/articles/s41598-021-90646-0)\]
+
+## Theses
+
+-   [Master Thesis](../MasterThesis-PawelMorzywolek.pdf): *Non-parametric Methods for Estimation of Hawkes Process for High-frequency Financial Data*, ETH Zurich 2015
+
+-   [Bachelor Thesis](../RandomTrees-BachelorThesis.pdf): *Random Trees: Convergence of Discrete Random Trees to the Continuum Random Tree*, ETH Zurich 2013

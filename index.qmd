@@ -5,7 +5,7 @@ resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf, cv.
 about: 
   template: trestles
   image-shape: round
-  image-width: 18em
+  image-width: 15em
   links:
     - text: GitHub
       icon: github

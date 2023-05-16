@@ -14,8 +14,6 @@ website:
         href: research/index.qmd
       - text: Teaching
         href: teaching/index.qmd
-      - text: Talks
-        href: talks/index.qmd
       
     right:
       - icon: github

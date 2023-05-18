@@ -30,7 +30,6 @@ I am a PhD student in statistical data analysis at [Ghent University](https://ww
 
 I graduated with a mathematics degree from [ETH Zurich](https://ethz.ch/en.html) with a focus on statistical learning theory and mathematical finance. Previously, I worked as a teaching assistant at African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/)) and as an actuary and a data scientist in a consulting company [EY](https://www.ey.com/en_ch).
 
-
 :::: {.columns}
 
 ::: {.column width="50%"}
@@ -43,12 +42,14 @@ I graduated with a mathematics degree from [ETH Zurich](https://ethz.ch/en.html)
 
 ::: {.column width="50%"}
 ### Education
-- MSc in Mathematics, 2015 <br />
-  *ETH Zurich*
-- BSc in Mathematics, 2014 <br />
-  *ETH Zurich*
+<ul class="fa-ul">
+  <li><span class="fa-li">{{< fa landmark >}}</span>MSc in Mathematics, 2015 <br /> ETH Zurich </li>
+  <li><span class="fa-li">{{< fa landmark >}}</span>BSc in Mathematics, 2014 <br /> ETH Zurich </li>
+</ul>
 :::
 
 ::::
+
+
 
 

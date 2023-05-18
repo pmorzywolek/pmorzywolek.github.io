@@ -30,11 +30,11 @@ website:
 
 format:
   html:
+    css: styles.css
     theme: 
       - cosmo
       - html/styles.scss
     toc: false
     page-layout: full
-
 editor: visual
 

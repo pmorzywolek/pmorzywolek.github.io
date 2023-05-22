@@ -35,18 +35,39 @@
     "text": "Theses\n\nMaster Thesis: Non-parametric Methods for Estimation of Hawkes Process for High-frequency Financial Data, ETH Zurich 2015.\nBachelor Thesis: Random Trees: Convergence of Discrete Random Trees to the Continuum Random Tree, ETH Zurich 2013."
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
-    "section": "",
-    "text": "Work in progress…"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Paweł Morzywołek",
     "section": "",
     "text": "Biography\nI am a PhD student in statistical data analysis at Ghent University. In my research project, I apply methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.\nI graduated with a mathematics degree from ETH Zurich with a focus on statistical learning theory and mathematical finance. Previously, I worked as a teaching assistant at African Institute for Mathematical Sciences (AIMS South Africa) and as an actuary and a data scientist in a consulting company EY.\n\n\n\nResearch interests\n\nCausal inference\nSemiparametric theory\nStatistical machine learning\nApplications in medicine\n\n\n\n\nEducation\n\n\nMSc in Mathematics, 2015  ETH Zurich\n\n\nBSc in Mathematics, 2014  ETH Zurich"
+  },
+  {
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
+    "title": "Paweł Morzywołek",
+    "section": "",
+    "text": "Sequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nIMS International Conference on Statistics and Data Science (ICSDS)\nDecember 2022, Florence (Contributed talk)\nSequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nLorentz Center Workshop “Counterfactual Prediction for Personalized Healthcare”\nDecember 2022, Leiden (Invited talk)\nSequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nMLinPL Conference\nNovember 2022, Warsaw (Contributed talk)\nSequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nAnnual Conference of the International Society for Clinical Biostatistics\nAugust 2022, Newcastle upon Tyne (Contributed talk)\nUnified Framework for Heterogeneous Treatment Effects Estimation\nAmerican Causal Inference Conference\nMay 2022, Berkeley (Poster presentation)\nUsing Routinely Collected Data to Define the Optimal Timing to Initiate Renal Replacement Therapy in AKI Patients\nBelgian Society of Nephrology (BVN-SBN) Annual Meeting\nMay 2022, Virtual (Contributed talk)\nUsing Routinely Collected Data to Define the Optimal Timing to Initiate Renal Replacement Therapy in AKI Patients\n59th European Renal Association (ERA) Congress\nMay 2022, Virtual (Contributed talk)\nDoes it Matter When We Start RRT in AKI? The Views of a Data Scientist\n27th Belgian Dialysis Symposium\nApril 2022, Hasselt (Invited talk)"
+  },
+  {
+    "objectID": "presentations/index.html#section",
+    "href": "presentations/index.html#section",
+    "title": "Paweł Morzywołek",
+    "section": "",
+    "text": "Sequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nIMS International Conference on Statistics and Data Science (ICSDS)\nDecember 2022, Florence (Contributed talk)\nSequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nLorentz Center Workshop “Counterfactual Prediction for Personalized Healthcare”\nDecember 2022, Leiden (Invited talk)\nSequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nMLinPL Conference\nNovember 2022, Warsaw (Contributed talk)\nSequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nAnnual Conference of the International Society for Clinical Biostatistics\nAugust 2022, Newcastle upon Tyne (Contributed talk)\nUnified Framework for Heterogeneous Treatment Effects Estimation\nAmerican Causal Inference Conference\nMay 2022, Berkeley (Poster presentation)\nUsing Routinely Collected Data to Define the Optimal Timing to Initiate Renal Replacement Therapy in AKI Patients\nBelgian Society of Nephrology (BVN-SBN) Annual Meeting\nMay 2022, Virtual (Contributed talk)\nUsing Routinely Collected Data to Define the Optimal Timing to Initiate Renal Replacement Therapy in AKI Patients\n59th European Renal Association (ERA) Congress\nMay 2022, Virtual (Contributed talk)\nDoes it Matter When We Start RRT in AKI? The Views of a Data Scientist\n27th Belgian Dialysis Symposium\nApril 2022, Hasselt (Invited talk)"
+  },
+  {
+    "objectID": "presentations/index.html#section-1",
+    "href": "presentations/index.html#section-1",
+    "title": "Paweł Morzywołek",
+    "section": "2021",
+    "text": "2021\n\nCounterfactual Prediction to Support Individualized Decisions on Treatment Initiation\nJoint Statistical Meetings (JSM)\nAugust 2021, Virtual (Contributed talk)\nOn Estimation and Cross-validation of Dynamic Treatment Regimes with Competing Risks\nEuropean Causal Inference Meeting (EuroCIM)\nMay 2021, Virtual (Contributed talk)"
+  },
+  {
+    "objectID": "presentations/index.html#section-2",
+    "href": "presentations/index.html#section-2",
+    "title": "Paweł Morzywołek",
+    "section": "2020",
+    "text": "2020\n\nAssessing the Optimal Time to Start Renal Replacement Therapy Using Dynamic Treatment Regimes\nAnnual Conference of the International Society for Clinical Biostatistics\nAugust 2020, Virtual (Contributed talk)"
   },
   {
     "objectID": "teaching/index.html",

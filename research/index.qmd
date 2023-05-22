@@ -1,7 +1,3 @@
----
-resources: MasterThesis-PawelMorzywolek.pdf
----
-
 ## Preprints
 
 -   **Morzywołek, P.**, Decruyenaere, J., Vansteelandt, S. "On a general class of orthogonal learners for the estimation of heterogeneous treatment effects", arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2303.12687)\] \[[code](https://github.com/pmorzywolek/CATEsimulations)\]

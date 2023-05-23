@@ -16,7 +16,7 @@
     [Annual Conference of the International Society for Clinical Biostatistics](https://www.iscb2022.info/)\
     August 2022, Newcastle upon Tyne (Contributed talk)
 
--   **Unified Framework for Heterogeneous Treatment Effects Estimation** \
+-   **Unified Framework for Heterogeneous Treatment Effects Estimation**\
     [American Causal Inference Conference](https://ctml.berkeley.edu/american-causal-inference-conference-2022)\
     May 2022, Berkeley (Poster presentation)
 
@@ -25,7 +25,7 @@
     May 2022, Virtual (Contributed talk)
 
 -   **Using Routinely Collected Data to Define the Optimal Timing to Initiate Renal Replacement Therapy in AKI Patients**\
-    59^th^ European Renal Association (ERA) Congress \
+    59^th^ European Renal Association (ERA) Congress\
     May 2022, Virtual (Contributed talk)
 
 -   **Does it Matter When We Start RRT in AKI? The Views of a Data Scientist**\
@@ -38,7 +38,7 @@
     [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/)\
     August 2021, Virtual (Contributed talk)
 -   **On Estimation and Cross-validation of Dynamic Treatment Regimes with Competing Risks**\
-    European Causal Inference Meeting (EuroCIM) \
+    European Causal Inference Meeting (EuroCIM)\
     May 2021, Virtual (Contributed talk)
 
 ## 2020

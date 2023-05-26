@@ -17,10 +17,10 @@ about:
       icon: linkedin
       href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
     - text: CV
-      icon: file-text
+      icon: file-text-fill
       href: cv.pdf
     - text: Email
-      icon: envelope
+      icon: envelope-fill
       href: mailto:pawel.morzywolek@ugent.be
 ---
 

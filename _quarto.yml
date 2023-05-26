@@ -24,9 +24,9 @@ website:
         href: https://twitter.com/PMorzywolek
       - icon: linkedin
         href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/
-      - icon: file-text
+      - icon: file-text-fill
         href: cv.pdf
-      - icon: envelope
+      - icon: envelope-fill
         aria-label: email
         href: "mailto:pawel.morzywolek@ugent.be"  
 

@@ -1,3 +1,9 @@
+## Upcoming
+
+-   **On a General Class of Orthogonal Learners for the Estimation of Heterogeneous Treatment Effects**\
+    [European Meeting of Statisticians (EMS)](https://ems2023.org/)\
+    July 2023, Warsaw (Contributed talk)
+
 ## 2022
 
 -   **Sequential Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation**\

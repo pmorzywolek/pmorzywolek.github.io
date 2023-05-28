@@ -15,6 +15,6 @@
 
 ## Theses
 
--   [Master Thesis](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_Thesis_%20Morzywolek.pdf): *Non-parametric Methods for Estimation of Hawkes Process for High-frequency Financial Data*, ETH Zurich 2015.
+-   [Master Thesis](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_Thesis_%20Morzywolek.pdf): "Non-parametric methods for estimation of Hawkes process for high-frequency financial data", ETH Zurich, 2015.
 
--   [Bachelor Thesis](../RandomTrees-BachelorThesis.pdf): *Random Trees: Convergence of Discrete Random Trees to the Continuum Random Tree*, ETH Zurich 2013.
+-   [Bachelor Thesis](../RandomTrees-BachelorThesis.pdf): "Random trees: Convergence of discrete random trees to the continuum random tree", ETH Zurich, 2013.

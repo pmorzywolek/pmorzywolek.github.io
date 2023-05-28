@@ -1,5 +1,6 @@
 ---
 title: "Paweł Morzywołek"
+subtitle: PhD Student in Statistical Data Analysis <br> at Ghent University
 image: photo2.jpg
 resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf, cv.pdf
 about: 

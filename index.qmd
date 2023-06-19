@@ -44,6 +44,7 @@ I graduated with a mathematics degree from [ETH Zurich](https://ethz.ch/en.html)
 ::: {.column width="50%"}
 ### Education
 <ul class="fa-ul">
+  <li><span class="fa-li">{{< fa landmark >}}</span>PhD in Statistical Data Analysis, 2023 <br /> Ghent University </li>
   <li><span class="fa-li">{{< fa landmark >}}</span>MSc in Mathematics, 2015 <br /> ETH Zurich </li>
   <li><span class="fa-li">{{< fa landmark >}}</span>BSc in Mathematics, 2014 <br /> ETH Zurich </li>
 </ul>

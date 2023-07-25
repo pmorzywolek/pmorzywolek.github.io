@@ -30,9 +30,7 @@ website:
         aria-label: email
         href: "mailto:pawel.morzywolek@ugent.be"  
         
-  google-analytics:
-    tracking-id: "G-WVGK8BL8QH"
-    storage: none
+  google-analytics: "G-WVGK8BL8QH"
 
 format:
   html:

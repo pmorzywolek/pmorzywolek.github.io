@@ -15,7 +15,7 @@
 
 ## Theses
 
--   [PhD Thesis](https://biblio.ugent.be/publication/01H3EW84JAFS8RHX17SY41M5M3): "Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data", Ghent University,
+-   [PhD Thesis](https://biblio.ugent.be/publication/01H3EW84JAFS8RHX17SY41M5M3): "Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data", Ghent University, 2023.
 
 -   [Master Thesis](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_Thesis_%20Morzywolek.pdf): "Non-parametric methods for estimation of Hawkes process for high-frequency financial data", ETH Zurich, 2015.
 

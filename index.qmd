@@ -1,7 +1,7 @@
 ---
 title: "Paweł Morzywołek"
 subtitle: Postdoctoral Researcher <br> at the University of Washington
-image: photo2.jpg
+image: PM.jpg
 resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf, cv.pdf
 about: 
   template: trestles

@@ -1,5 +1,6 @@
 ## Preprints
 
+-   Luijken, K., **Morzywołek, P.**, van Amsterdam, W., Cinà, G., Hoogland, J., Keogh, R., Krijthe, J., Magliacane, S., van Ommen, T., Peek, N., Putter, H., van Smeden, M., Sperrin, M., Wang, J., Weir, D., Didelez, V., van Geloven, N. "Risk-based decision making: estimands for sequential prediction under interventions", arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2311.17547)\]
 -   Vansteelandt, S., **Morzywołek, P.** "Orthogonal prediction of counterfactual outcomes", arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2311.09423)\]
 -   **Morzywołek, P.**, Decruyenaere, J., Vansteelandt, S. "On a general class of orthogonal learners for the estimation of heterogeneous treatment effects", arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2303.12687)\] \[[code](https://github.com/pmorzywolek/CATEsimulations)\]
 -   Steen, J., **Morzywołek, P.**, Van Biesen, W., Decruyenaere, J., Vansteelandt, S. "Handling time-dependent exposures and confounders when estimating attributable fractions - bridging the gap between multistate and counterfactual modeling", arxiv, 2020. \[[arxiv](https://arxiv.org/abs/2011.04833)\]

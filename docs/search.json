@@ -4,25 +4,32 @@
     "href": "research/index.html",
     "title": "Paweł Morzywołek",
     "section": "",
-    "text": "Luijken, K., Morzywołek, P., van Amsterdam, W., Cinà, G., Hoogland, J., Keogh, R., Krijthe, J., Magliacane, S., van Ommen, T., Peek, N., Putter, H., van Smeden, M., Sperrin, M., Wang, J., Weir, D., Didelez, V., van Geloven, N. “Risk-based decision making: estimands for sequential prediction under interventions”, arxiv, 2023. [arxiv]\nVansteelandt, S., Morzywołek, P. “Orthogonal prediction of counterfactual outcomes”, arxiv, 2023. [arxiv]\nMorzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arxiv, 2023. [arxiv] [code]\nSteen, J., Morzywołek, P., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. “Handling time-dependent exposures and confounders when estimating attributable fractions - bridging the gap between multistate and counterfactual modeling”, arxiv, 2020. [arxiv]"
+    "text": "Luijken, K., Morzywołek, P., van Amsterdam, W., Cinà, G., Hoogland, J., Keogh, R., Krijthe, J., Magliacane, S., van Ommen, T., Peek, N., Putter, H., van Smeden, M., Sperrin, M., Wang, J., Weir, D., Didelez, V., van Geloven, N. “Risk-based decision making: estimands for sequential prediction under interventions”, arxiv, 2023. [arxiv]\nVansteelandt, S., Morzywołek, P. “Orthogonal prediction of counterfactual outcomes”, arxiv, 2023. [arxiv]\nMorzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arxiv, 2023. [arxiv] [code]"
   },
   {
     "objectID": "research/index.html#preprints",
     "href": "research/index.html#preprints",
     "title": "Paweł Morzywołek",
     "section": "",
-    "text": "Luijken, K., Morzywołek, P., van Amsterdam, W., Cinà, G., Hoogland, J., Keogh, R., Krijthe, J., Magliacane, S., van Ommen, T., Peek, N., Putter, H., van Smeden, M., Sperrin, M., Wang, J., Weir, D., Didelez, V., van Geloven, N. “Risk-based decision making: estimands for sequential prediction under interventions”, arxiv, 2023. [arxiv]\nVansteelandt, S., Morzywołek, P. “Orthogonal prediction of counterfactual outcomes”, arxiv, 2023. [arxiv]\nMorzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arxiv, 2023. [arxiv] [code]\nSteen, J., Morzywołek, P., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. “Handling time-dependent exposures and confounders when estimating attributable fractions - bridging the gap between multistate and counterfactual modeling”, arxiv, 2020. [arxiv]"
+    "text": "Luijken, K., Morzywołek, P., van Amsterdam, W., Cinà, G., Hoogland, J., Keogh, R., Krijthe, J., Magliacane, S., van Ommen, T., Peek, N., Putter, H., van Smeden, M., Sperrin, M., Wang, J., Weir, D., Didelez, V., van Geloven, N. “Risk-based decision making: estimands for sequential prediction under interventions”, arxiv, 2023. [arxiv]\nVansteelandt, S., Morzywołek, P. “Orthogonal prediction of counterfactual outcomes”, arxiv, 2023. [arxiv]\nMorzywołek, P., Decruyenaere, J., Vansteelandt, S. “On a general class of orthogonal learners for the estimation of heterogeneous treatment effects”, arxiv, 2023. [arxiv] [code]"
   },
   {
     "objectID": "research/index.html#section",
     "href": "research/index.html#section",
     "title": "Paweł Morzywołek",
-    "section": "2022",
-    "text": "2022\n\nMorzywołek, P., Steen, J., Vansteelandt, S., Decruyenaere, J., Sterckx S., Van Biesen, W. “Timing of dialysis in acute kidney injury using routinely collected data and dynamic treatment regimes”, Critical Care, 2022. [paper]\nMorzywołek, P., Steen, J., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. “On estimation and cross-validation of dynamic treatment regimes with competing risks”, Statistics in Medicine, 2022. [paper] [arxiv] [code]"
+    "section": "2023",
+    "text": "2023\n\nSteen, J., Morzywołek, P., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. “Dealing with time-dependent exposures and confounding when defining and estimating attributable fractions—Revisiting estimands and estimators”, Statistics in Medicine, 2023. [paper] [arxiv]"
   },
   {
     "objectID": "research/index.html#section-1",
     "href": "research/index.html#section-1",
+    "title": "Paweł Morzywołek",
+    "section": "2022",
+    "text": "2022\n\nMorzywołek, P., Steen, J., Vansteelandt, S., Decruyenaere, J., Sterckx S., Van Biesen, W. “Timing of dialysis in acute kidney injury using routinely collected data and dynamic treatment regimes”, Critical Care, 2022. [paper]\nMorzywołek, P., Steen, J., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. “On estimation and cross-validation of dynamic treatment regimes with competing risks”, Statistics in Medicine, 2022. [paper] [arxiv] [code]"
+  },
+  {
+    "objectID": "research/index.html#section-2",
+    "href": "research/index.html#section-2",
     "title": "Paweł Morzywołek",
     "section": "2021",
     "text": "2021\n\nVanmassenhove J., Steen, J., Vansteelandt, S., Morzywołek, P., Hoste, E., Decruyenaere, J., Benoit, D., Van Biesen, W. “The importance of the urinary output criterion for the detection and prognostic meaning of AKI”, Scientific Reports, 2021. [paper]"

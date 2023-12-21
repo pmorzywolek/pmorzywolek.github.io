@@ -6,7 +6,7 @@
 
 ## 2023
 
--   Steen, J., Morzywołek, P., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. **"Dealing with time-dependent exposures and confounding when defining and estimating attributable fractions—Revisiting estimands and estimators"**, *Statistics in Medicine*, 2023. \[[paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.9988)\] \[[arxiv](https://arxiv.org/abs/2011.04833)\]
+-   Steen, J., Morzywołek, P., Van Biesen, W., Decruyenaere, J., Vansteelandt, S. **"Dealing with time-dependent exposures and confounding when defining and estimating attributable fractions—Revisiting estimands and estimators"**, *Statistics in Medicine*, 2023. \[[paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.9988)\] \[[arxiv](https://arxiv.org/abs/2011.04833)\] \[[code](https://github.com/jmpsteen/timedeppaf)\]
 
 ## 2022
 

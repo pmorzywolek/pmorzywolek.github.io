@@ -9,6 +9,10 @@
     August 2024, Bochum (Contributed talk)
     
 -   **Inference on Variable Importance Measures for Heterogeneous Treatment Effects**\
+    [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/)\
+    August 2024, Portland (Contributed talk)
+    
+-   **Inference on Variable Importance Measures for Heterogeneous Treatment Effects**\
     [American Causal Inference Conference](https://sci-info.org/annual-meeting/)\
     May 2024, Seattle (Poster presentation)
 

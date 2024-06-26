@@ -27,9 +27,9 @@ about:
 
 # Biography
 
-I am a postdoc in the Department of Statistics at the [University of Washington](https://stat.uw.edu/). My research focuses on causal inference and statistical inference for infinite-dimensional parameters, with application to study the efficacy of infectious disease prevention strategies.
+I am a postdoc in the Department of Statistics at the [University of Washington](https://stat.uw.edu/) working with [Alex Luedtke](http://www.alexluedtke.com/). My research focuses on causal inference and statistical inference for infinite-dimensional parameters, with application to study the efficacy of infectious disease prevention strategies. I am also [UW Data Science](https://escience.washington.edu/about/) Postdoctoral Fellow and an incoming [PIMS-Simons](https://www.pims.math.ca/) Postdoctoral Fellow. 
 
-I obtained my PhD in Statistical Data Analysis from [Ghent University](https://www.ugent.be/en). In my PhD project, I applied methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.
+I obtained my PhD in Statistical Data Analysis from [Ghent University](https://www.ugent.be/en) under supervision of [Johan Steen](https://research.ugent.be/web/person/johan-steen-0/en), [Wim Van Biesen](https://research.ugent.be/web/person/wim-van-biesen-0/en) and [Stijn Vansteelandt](https://users.ugent.be/~svsteela/). In my PhD project, I applied methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.
 
 Previously, I graduated with a Mathematics degree from [ETH Zurich](https://ethz.ch/en.html) with a focus on statistical learning theory and mathematical finance. I also worked as a teaching assistant at the African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/)) and as an actuary and a data scientist in a consulting company [EY](https://www.ey.com/en_ch).
 

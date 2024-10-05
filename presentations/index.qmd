@@ -3,6 +3,10 @@
 -   **Orthogonal Learners for Prediction under Hypothetical Interventions, with Application in Acute Kidney Injury**\
     [International Biometric Conference](https://members.biometricsociety.org/ibc2024/home)\
     December 2024, Atlanta (Invited talk)
+
+-   **Inference on Variable Importance Measures for Heterogeneous Treatment Effects**\
+    [Conference on Statistical Learning and Data Science](https://sites.google.com/view/slds2024/menu)\
+    November 2024, Newport Beach (Invited talk)
     
 -   **Inference on Variable Importance Measures for Heterogeneous Treatment Effects**\
     [Bernoulli-IMS 2024 World Congress](https://www.bernoulli-ims-worldcongress2024.org/)\

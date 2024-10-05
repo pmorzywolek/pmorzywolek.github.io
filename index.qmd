@@ -11,9 +11,6 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/pmorzywolek
-    - text: Twitter
-      icon: twitter
-      href: https://twitter.com/PMorzywolek
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/pawel-morzywolek-50071bb4/

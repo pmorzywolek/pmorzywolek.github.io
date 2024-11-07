@@ -8,6 +8,10 @@
     [Conference on Statistical Learning and Data Science](https://sites.google.com/view/slds2024/menu)\
     November 2024, Newport Beach (Invited talk)
     
+-   **Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data**\
+    [Biostatistics Seminar at the University of Copenhagen](https://biostatistics.dk/seminars/index.html)\
+    October 2024, Online (Invited talk)
+    
 -   **Inference on Variable Importance Measures for Heterogeneous Treatment Effects**\
     [Bernoulli-IMS 2024 World Congress](https://www.bernoulli-ims-worldcongress2024.org/)\
     August 2024, Bochum (Contributed talk)
@@ -50,11 +54,11 @@
 
 -   **Using Routinely Collected Data to Define the Optimal Timing to Initiate Renal Replacement Therapy in AKI Patients**\
     Belgian Society of Nephrology (BVN-SBN) Annual Meeting\
-    May 2022, Virtual (Contributed talk)
+    May 2022, Online (Contributed talk)
 
 -   **Using Routinely Collected Data to Define the Optimal Timing to Initiate Renal Replacement Therapy in AKI Patients**\
     59^th^ European Renal Association (ERA) Congress\
-    May 2022, Virtual (Contributed talk)
+    May 2022, Online (Contributed talk)
 
 -   **Does it Matter When We Start RRT in AKI? The Views of a Data Scientist**\
     27^th^ Belgian Dialysis Symposium\
@@ -64,13 +68,13 @@
 
 -   **Counterfactual Prediction to Support Individualized Decisions on Treatment Initiation**\
     [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/)\
-    August 2021, Virtual (Contributed talk)
+    August 2021, Online (Contributed talk)
 -   **On Estimation and Cross-validation of Dynamic Treatment Regimes with Competing Risks**\
     European Causal Inference Meeting (EuroCIM)\
-    May 2021, Virtual (Contributed talk)
+    May 2021, Online (Contributed talk)
 
 ## 2020
 
 -   **Assessing the Optimal Time to Start Renal Replacement Therapy Using Dynamic Treatment Regimes**\
     Annual Conference of the International Society for Clinical Biostatistics\
-    August 2020, Virtual (Contributed talk)
+    August 2020, Online (Contributed talk)

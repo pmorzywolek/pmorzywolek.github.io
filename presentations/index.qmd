@@ -11,6 +11,10 @@
 -   **Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data**\
     [Biostatistics Seminar at the University of Copenhagen](https://biostatistics.dk/seminars/index.html)\
     October 2024, Online (Invited talk)
+
+-   **Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data**\
+    [Research Seminar at IDEAS NCBR](https://ideas-ncbr.pl/en/)\
+    September 2024, Warsaw (Invited talk)
     
 -   **Inference on Variable Importance Measures for Heterogeneous Treatment Effects**\
     [Bernoulli-IMS 2024 World Congress](https://www.bernoulli-ims-worldcongress2024.org/)\

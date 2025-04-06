@@ -2,7 +2,10 @@
 
 -   van Geloven, N., Keogh, R., van Amsterdam, W., Cinà, G., Krijthe, J., Peek, N., Luijken, K., Magliacane, S., Morzywołek, P., van Ommen, T., Putter, H., Sperrin, M., Wang, J., Weir, D., Didelez, V. **"Causal blind spots when using prediction models for treatment decisions"**, arxiv, 2024. \[[arxiv](https://arxiv.org/abs/2402.17366)\]
 -   Vansteelandt, S., Morzywołek, P. **"Orthogonal prediction of counterfactual outcomes"**, arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2311.09423)\]
--   Morzywołek, P., Decruyenaere, J., Vansteelandt, S. **"On weighted orthogonal learners for heterogeneous treatment effects"**, arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2303.12687)\] \[[code](https://github.com/pmorzywolek/CATEsimulations)\]
+
+## 2025
+
+-   Morzywołek, P., Decruyenaere, J., Vansteelandt, S. **"On weighted orthogonal learners for heterogeneous treatment effects"**, *Statistical Science*, 2025. \[[paper](https://www.e-publications.org/ims/submission/STS/user/submissionFile/59703?confirm=f95b2a95)\] \[[arxiv](https://arxiv.org/abs/2303.12687)\] \[[code](https://github.com/pmorzywolek/CATEsimulations)\]
 
 ## 2024
 

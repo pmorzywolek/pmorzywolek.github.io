@@ -1,3 +1,9 @@
+## 2025
+
+-   **Inference on local variable importance measures for heterogeneous treatment effects**\
+    [Nordic-Baltic Biometric Conference](https://www.nbbc2025.com/)\
+    June 2025, Oslo (Invited talk)
+
 ## 2024
 
 -   **Orthogonal learners for prediction under hypothetical interventions, with application in acute kidney injury**\

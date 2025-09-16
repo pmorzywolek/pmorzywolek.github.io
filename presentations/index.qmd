@@ -83,6 +83,7 @@
 -   **Counterfactual prediction to support individualized decisions on treatment initiation**\
     [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/)\
     August 2021, Online (Contributed talk)
+    
 -   **On estimation and cross-validation of dynamic treatment regimes with competing risks**\
     European Causal Inference Meeting (EuroCIM)\
     May 2021, Online (Contributed talk)

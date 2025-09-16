@@ -1,6 +1,10 @@
 ## 2025
 
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
+    [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2025/)\
+    August 2025, Nashville (Invited talk)
+    
+-   **Inference on local variable importance measures for heterogeneous treatment effects**\
     [Nordic-Baltic Biometric Conference](https://www.nbbc2025.com/)\
     June 2025, Oslo (Invited talk)
 

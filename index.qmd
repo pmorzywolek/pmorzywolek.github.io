@@ -1,6 +1,6 @@
 ---
 title: "Paweł Morzywołek"
-subtitle: Postdoctoral Researcher <br> at the University of Washington
+subtitle: Department of Public Health <br> University of Copenhagen
 image: PM2.jpg
 resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf, cv.pdf
 about: 
@@ -19,16 +19,18 @@ about:
       href: cv.pdf
     - text: Email
       icon: envelope-fill
-      href: mailto:pmorzywo@uw.edu
+      href: mailto:pawel.morzywolek@sund.ku.dk
 ---
 
 # Biography
 
-I am a postdoc in the Department of Statistics at the [University of Washington](https://stat.uw.edu/) working with [Alex Luedtke](http://www.alexluedtke.com/). My research focuses on causal inference and statistical inference for infinite-dimensional parameters, with application to study the efficacy of infectious disease prevention strategies. I am also currently [UW Data Science](https://escience.washington.edu/about/) Postdoctoral Fellow and [PIMS-Simons](https://www.pims.math.ca/) Postdoctoral Fellow. 
+I am an assistant professor of biostatistics in the Department of Public Health at the [University of Copenhagen](https://publichealth.ku.dk/about-the-department/biostat/). My research centers on causal and statistical inference, with a particular focus on infinite-dimensional parameters and their applications to the study of common complex diseases. I am also affiliated with the [SMARTbiomed Pioneer Center](https://smartbiomed.dk/about-smartbiomed).
 
-I obtained my PhD in Statistical Data Analysis from [Ghent University](https://www.ugent.be/en) under supervision of [Johan Steen](https://research.ugent.be/web/person/johan-steen-0/en), [Wim Van Biesen](https://research.ugent.be/web/person/wim-van-biesen-0/en) and [Stijn Vansteelandt](https://users.ugent.be/~svsteela/). In my PhD project, I applied methods from causal inference to infer the optimal time to initiate treatment in critically ill patients using observational routinely collected data.
+Previously, I was a postdoctoral fellow in the Department of Statistics at the [University of Washington](https://stat.uw.edu/), where I worked with [Alex Luedtke](http://www.alexluedtke.com/) and [Peter Gilbert](https://www.fredhutch.org/en/faculty-lab-directory/gilbert-peter.html) on inference for local variable importance measures applied to evaluating the efficacy of infectious disease prevention strategies. During this time, I was also a [UW Data Science](https://escience.washington.edu/about/) postdoctoral fellow and a [PIMS-Simons](https://www.pims.math.ca/) postdoctoral fellow.
 
-Previously, I graduated with a Mathematics degree from [ETH Zurich](https://ethz.ch/en.html) with a focus on statistical learning theory and mathematical finance. I also worked as a teaching assistant at the African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/)) and as an actuary and a data scientist in a consulting company [EY](https://www.ey.com/en_ch).
+I obtained my PhD in Statistical Data Analysis from [Ghent University](https://www.ugent.be/en) under the supervision of [Johan Steen](https://research.ugent.be/web/person/johan-steen-0/en), [Wim Van Biesen](https://research.ugent.be/web/person/wim-van-biesen-0/en), and [Stijn Vansteelandt](https://users.ugent.be/~svsteela/). My doctoral research applied causal inference methods to determine the optimal timing of treatment initiation in critically ill patients using observational, routinely collected data.
+
+I hold a degree in mathematics from [ETH Zurich](https://ethz.ch/en.html), where I specialized in statistical learning theory and mathematical finance. Beyond academia, I have served as a teaching assistant at the African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/)) and worked as an actuary and a data scientist at a consulting company [EY](https://www.ey.com/en_ch).
 
 :::: {.columns}
 
@@ -37,7 +39,7 @@ Previously, I graduated with a Mathematics degree from [ETH Zurich](https://ethz
 - Causal inference 
 - Semiparametric theory
 - Statistical machine learning
-- Applications in medicine
+- Biostatistics
 :::
 
 ::: {.column width="50%"}

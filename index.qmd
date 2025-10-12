@@ -1,6 +1,6 @@
 ---
 title: "Paweł Morzywołek"
-subtitle: Department of Public Health <br> University of Copenhagen
+subtitle: Section of Biostatistics <br> University of Copenhagen
 image: PM2.jpg
 resources: MasterThesis-PawelMorzywolek.pdf, RandomTrees-BachelorThesis.pdf, cv.pdf
 about: 

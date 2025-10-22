@@ -1,5 +1,7 @@
 ## Preprints
 
+-   Morzywołek, P., Gilbert, P., Luedtke, A. **"Inference on local variable importance measures for heterogeneous treatment effects"**, arxiv, 2025. \[[arxiv](https://arxiv.org/abs/2510.18843)\]
+
 -   Vansteelandt, S., Morzywołek, P. **"Orthogonal prediction of counterfactual outcomes"**, arxiv, 2023. \[[arxiv](https://arxiv.org/abs/2311.09423)\]
 
 ## 2025

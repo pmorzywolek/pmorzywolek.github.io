@@ -1,95 +1,39 @@
-## 2025
+
+## Invited talks
 
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
-    [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2025/)\
-    August 2025, Nashville (Invited talk)
+    [CAUSALab Methods Series](https://nyheter.ki.se/kalender/inference-on-local-variable-importance-measures-for-heterogeneous-treatment-effects), Stockholm, February 2026
     
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
-    [Nordic-Baltic Biometric Conference](https://www.nbbc2025.com/)\
-    June 2025, Oslo (Invited talk)
+    [UW Biostatistics Seminar](https://www.biostat.washington.edu/news/seminar), Online, February 2026 
 
-## 2024
+-   **Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data**\
+    [SMARTbiomed Seminar](https://smartbiomed.dk/news-and-events), Online, January 2026 
+    
+-   **Inference on local variable importance measures for heterogeneous treatment effects**\
+    [CFE-CMStatistics](https://www.cmstatistics.org/CFECMStatistics2025/), London, December 2025 
+
+-   **Inference on local variable importance measures for heterogeneous treatment effects**\
+    [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, August 2025 
+    
+-   **Inference on local variable importance measures for heterogeneous treatment effects**\
+    [Nordic-Baltic Biometric Conference](https://www.nbbc2025.com/), Oslo, June 2025 
 
 -   **Orthogonal learners for prediction under hypothetical interventions, with application in acute kidney injury**\
-    [International Biometric Conference](https://members.biometricsociety.org/ibc2024/home)\
-    December 2024, Atlanta (Invited talk)
+    [International Biometric Conference](https://members.biometricsociety.org/ibc2024/home), Atlanta, December 2024 
 
 -   **Inference on variable importance measures for heterogeneous treatment effects**\
-    [Conference on Statistical Learning and Data Science](https://sites.google.com/view/slds2024/menu)\
-    November 2024, Newport Beach (Invited talk)
+    [Conference on Statistical Learning and Data Science](https://sites.google.com/view/slds2024/menu), Newport Beach, November 2024
     
 -   **Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data**\
-    [Biostatistics Seminar at the University of Copenhagen](https://biostatistics.dk/seminars/previous.html)\
-    October 2024, Online (Invited talk)
+    [Biostatistics Seminar at the University of Copenhagen](https://biostatistics.dk/seminars/previous.html), Online, October 2024 
 
 -   **Causal inference methods to optimize clinical decision-making in treatment initiation based on routinely collected data**\
-    [Research Seminar at IDEAS NCBR](https://ideas-ncbr.pl/en/)\
-    September 2024, Warsaw (Invited talk)
-    
--   **Inference on variable importance measures for heterogeneous treatment effects**\
-    [Bernoulli-IMS 2024 World Congress](https://www.bernoulli-ims-worldcongress2024.org/)\
-    August 2024, Bochum (Contributed talk)
-    
--   **Inference on variable importance measures for heterogeneous treatment effects**\
-    [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/)\
-    August 2024, Portland (Contributed talk)
-    
--   **Inference on variable importance measures for heterogeneous treatment effects**\
-    [American Causal Inference Conference](https://sci-info.org/annual-meeting/)\
-    May 2024, Seattle (Poster presentation)
-
-## 2023
-
--   **On a general class of orthogonal learners for the estimation of heterogeneous treatment effects**\
-    [European Meeting of Statisticians (EMS)](https://ems2023.org/)\
-    July 2023, Warsaw (Contributed talk)
-
-## 2022
+    [Research Seminar at IDEAS NCBR](https://ideas-ncbr.pl/en/), Warsaw, September 2024
 
 -   **Sequential counterfactual prediction to support individualized decisions on treatment initiation**\
-    [IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/icsds2022)\
-    December 2022, Florence (Contributed talk)
-
--   **Sequential counterfactual prediction to support individualized decisions on treatment initiation**\
-    [Lorentz Center Workshop "Counterfactual Prediction for Personalized Healthcare"](https://www.lorentzcenter.nl/counterfactual-prediction-for-personalized-healthcare.html)\
-    December 2022, Leiden (Invited talk)
-
--   **Sequential counterfactual prediction to support individualized decisions on treatment initiation**\
-    [MLinPL Conference](https://conference2022.mlinpl.org/)\
-    November 2022, Warsaw (Contributed talk)
-
--   **Sequential counterfactual prediction to support individualized decisions on treatment initiation**\
-    [Annual Conference of the International Society for Clinical Biostatistics](https://www.iscb2022.info/)\
-    August 2022, Newcastle upon Tyne (Contributed talk)
-
--   **Unified framework for heterogeneous treatment effects estimation**\
-    [American Causal Inference Conference](https://ctml.berkeley.edu/american-causal-inference-conference-2022)\
-    May 2022, Berkeley (Poster presentation)
-
--   **Using routinely collected data to define the optimal timing to initiate renal replacement therapy in AKI patients**\
-    Belgian Society of Nephrology (BVN-SBN) Annual Meeting\
-    May 2022, Online (Contributed talk)
-
--   **Using routinely collected data to define the optimal timing to initiate renal replacement therapy in AKI patients**\
-    59^th^ European Renal Association (ERA) Congress\
-    May 2022, Online (Contributed talk)
+    [Lorentz Center Workshop "Counterfactual Prediction for Personalized Healthcare"](https://www.lorentzcenter.nl/counterfactual-prediction-for-personalized-healthcare.html), Leiden, December 2022 
 
 -   **Does it matter when we start RRT in AKI? The views of a data scientist**\
-    27^th^ Belgian Dialysis Symposium\
-    April 2022, Hasselt (Invited talk)
+    27^th^ Belgian Dialysis Symposium, Hasselt, April 2022
 
-## 2021
-
--   **Counterfactual prediction to support individualized decisions on treatment initiation**\
-    [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/)\
-    August 2021, Online (Contributed talk)
-    
--   **On estimation and cross-validation of dynamic treatment regimes with competing risks**\
-    European Causal Inference Meeting (EuroCIM)\
-    May 2021, Online (Contributed talk)
-
-## 2020
-
--   **Assessing the optimal time to start renal replacement therapy using dynamic treatment regimes**\
-    Annual Conference of the International Society for Clinical Biostatistics\
-    August 2020, Online (Contributed talk)

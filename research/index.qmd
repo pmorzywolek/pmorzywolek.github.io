@@ -1,6 +1,6 @@
 ## Preprints
 
--   Morzywołek, P., Gilbert, P., Luedtke, A. **"Inference on local variable importance measures for heterogeneous treatment effects"**, arxiv, 2025. \[[arxiv](https://arxiv.org/abs/2510.18843)\]
+-   Morzywołek, P., Gilbert, P., Luedtke, A. **"Inference on variable importance for treatment effect heterogeneity: Shapley values and beyond"**, arxiv, 2025. \[[arxiv](https://arxiv.org/abs/2510.18843)\]
 
 ## 2025
 

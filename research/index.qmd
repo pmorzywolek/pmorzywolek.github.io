@@ -38,5 +38,5 @@
 
 ## Peer Review Activities
 
-American Journal of Epidemiology, Biometrical Journal, Biometrics, Biostatistics, Journal of Causal Inference, Journal of the American Statistical Association, Journal of the Royal Statistical Society - Series B, Journal of the Royal Statistical Society - Series C, Proceedings of the National Academy of Sciences, Scandinavian Journal of Statistics, Statistics in Medicine, American Causal Inference Conference (ACIC), Conference on Causal Learning and Reasoning (CleaR)
+American Journal of Epidemiology, Biometrical Journal, Biometrics, Biometrika, Biostatistics, Journal of Causal Inference, Journal of the American Statistical Association, Journal of the Royal Statistical Society - Series B, Journal of the Royal Statistical Society - Series C, Proceedings of the National Academy of Sciences, Scandinavian Journal of Statistics, Statistics in Medicine, American Causal Inference Conference (ACIC), Conference on Causal Learning and Reasoning (CleaR)
 

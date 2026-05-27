@@ -2,7 +2,7 @@
 ## Invited talks
 
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
-    [Francqui Workshop](https://feb.kuleuven.be/research/Francqui-ws), Leuven, May 2026
+    [Francqui Workshop "Causal aspects of lifetime and functional data analysis"](https://feb.kuleuven.be/research/Francqui-ws), Leuven, May 2026
     
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
     [CAUSALab Methods Series](https://nyheter.ki.se/kalender/inference-on-local-variable-importance-measures-for-heterogeneous-treatment-effects), Stockholm, February 2026
@@ -35,7 +35,7 @@
     [Research Seminar at IDEAS NCBR](https://ideas-ncbr.pl/en/), Warsaw, September 2024
 
 -   **Sequential counterfactual prediction to support individualized decisions on treatment initiation**\
-    [Lorentz Center Workshop "Counterfactual Prediction for Personalized Healthcare"](https://www.lorentzcenter.nl/counterfactual-prediction-for-personalized-healthcare.html), Leiden, December 2022 
+    [Lorentz Center Workshop "Counterfactual prediction for personalized healthcare"](https://www.lorentzcenter.nl/counterfactual-prediction-for-personalized-healthcare.html), Leiden, December 2022 
 
 -   **Does it matter when we start RRT in AKI? The views of a data scientist**\
     27^th^ Belgian Dialysis Symposium, Hasselt, April 2022

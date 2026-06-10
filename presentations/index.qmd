@@ -23,7 +23,7 @@
     [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, August 2025 
     
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
-    [Nordic-Baltic Biometric Conference](https://www.nbbc2025.com/), Oslo, June 2025 
+    Nordic-Baltic Biometric Conference, Oslo, June 2025 
 
 -   **Orthogonal learners for prediction under hypothetical interventions, with application in acute kidney injury**\
     [International Biometric Conference](https://members.biometricsociety.org/ibc2024/home), Atlanta, December 2024 

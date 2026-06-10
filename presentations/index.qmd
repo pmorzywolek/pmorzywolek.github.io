@@ -1,6 +1,9 @@
 
 ## Invited talks
 
+-   **Inference on variable importance for treatment effect heterogeneity: Shapley values and beyond **\
+    [Statistics Seminar at the Lund University School of Economics and Management](https://www.lusem.lu.se/calendar/statistics-seminar-pawel-morzywolek-department-public-health-university-copenhagen), Lund, June 2026
+    
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
     [Francqui Workshop "Causal aspects of lifetime and functional data analysis"](https://feb.kuleuven.be/research/Francqui-ws), Leuven, May 2026
     

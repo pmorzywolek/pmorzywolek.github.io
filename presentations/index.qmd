@@ -2,7 +2,7 @@
 ## Invited talks
 
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
-    [The 8th Pacific Causal Inference Conference](https://spco.cc/pcic2026/), Tianjin, July 2026
+    [Pacific Causal Inference Conference](https://spco.cc/pcic2026/), Tianjin, July 2026
     
 -   **Quantifying data source importance**\
     [SMARTbiomed Annual Symposium](https://smartbiomed.dk/news-and-events/show-news/artikel/smartbiomed-annual-symposium-2026), Aarhus, June 2026

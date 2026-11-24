@@ -4,7 +4,9 @@
 
 -   [Introduction to Causal Prediction](https://lifesciencesummerschool.ku.dk/) (AI in Life Science Summer School 2026)
 
--   [Advanced Topics in Causal Inference](https://publichealth.ku.dk/about-the-department/biostat/teaching/) (Autumn Semesters 2025, 2026)
+-   [Semiparametric Inference](https://kurser.ku.dk/course/NMAK20002U/2025-2026) (Guest lecture "Introduction to Double/Debiased Machine Learning"; Spring Semester 2026)
+
+-   [Advanced Topics in Causal Inference](https://publichealth.ku.dk/about-the-department/biostat/teaching/) (Guest lecture "Introduction to Semiparametric Inference"; Autumn Semesters 2025, 2026)
 
 ## Teaching Assistant at [Ghent University](https://ugent.be/en)
 

@@ -1,12 +1,16 @@
-## Guest Lecturer at [University of Copenhagen](https://publichealth.ku.dk/about-the-department/biostat/)
+## Lecturer at [University of Copenhagen](https://publichealth.ku.dk/about-the-department/biostat/)
 
--   [Advanced Topics in Causal Inference](https://publichealth.ku.dk/about-the-department/biostat/teaching/) (Autumn Semester 2025)
+-   [Introduction to Causal Inference](https://publichealth.ku.dk/about-the-department/biostat/teaching/) (Autumn Semester 2026)
+
+-   [Introduction to Causal Prediction](https://lifesciencesummerschool.ku.dk/) (AI in Life Science Summer School 2026)
+
+-   [Advanced Topics in Causal Inference](https://publichealth.ku.dk/about-the-department/biostat/teaching/) (Autumn Semesters 2025, 2026)
 
 ## Teaching Assistant at [Ghent University](https://ugent.be/en)
 
 -   [Causal Machine Learning](https://studiekiezer.ugent.be/studiefiche/en/C004413/2022) (Spring Semester 2023)
 
--   [Causality and Missing Data](https://studiekiezer.ugent.be/studiefiche/en/C002881/2021) (Spring Semesters 2020/2021/2022)
+-   [Causality and Missing Data](https://studiekiezer.ugent.be/studiefiche/en/C002881/2021) (Spring Semesters 2020, 2021, 2022)
 
 ## Teaching Assistant at [AIMS South Africa](https://aims.ac.za/)
 

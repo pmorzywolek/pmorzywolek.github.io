@@ -2,6 +2,9 @@
 ## Invited talks
 
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
+    [European Meeting of Statisticians](https://www.ems26.org/), Lugano, August 2026
+    
+-   **Inference on local variable importance measures for heterogeneous treatment effects**\
     [Pacific Causal Inference Conference](https://spco.cc/pcic2026/), Tianjin, July 2026
     
 -   **Quantifying data source importance**\

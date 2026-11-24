@@ -26,7 +26,7 @@
     [Francqui Workshop "Causal aspects of lifetime and functional data analysis"](https://feb.kuleuven.be/research/Francqui-ws), Leuven, May 2026
     
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
-    [CAUSALab Methods Series](https://nyheter.ki.se/kalender/inference-on-local-variable-importance-measures-for-heterogeneous-treatment-effects), Stockholm, February 2026
+    [CAUSALab Methods Series at Karolinska Institute](https://nyheter.ki.se/kalender/inference-on-local-variable-importance-measures-for-heterogeneous-treatment-effects), Stockholm, February 2026
     
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
     [UW Biostatistics Seminar](https://www.biostat.washington.edu/news/seminar), Online, February 2026 

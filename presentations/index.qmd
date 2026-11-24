@@ -1,6 +1,15 @@
 
 ## Invited talks
 
+-   **Inference on variable importance for treatment effect heterogeneity: Shapley values and beyond **\
+    [MRC Biostatistics Unit Seminar at the University of Cambridge](https://talks.cam.ac.uk/talk/index/273523/), Online, November 2026
+    
+-   **Beyond average treatment effects: Variable importance for treatment effect heterogeneity**\
+    [Statistics Seminar at the University of Wroclaw](https://www.math.uni.wroc.pl/seminar-item/4178), Wrocław, October 2026
+
+-   **Data fusion sensitivity analysis**\
+    Joint Initiative for Causal Inference (JICI) Annual Meeting, Copenhagen, September 2026
+    
 -   **Inference on local variable importance measures for heterogeneous treatment effects**\
     [European Meeting of Statisticians](https://www.ems26.org/), Lugano, August 2026
     
